@@ -24,6 +24,7 @@ The algorithm can be used as standalone program as well as integrated in python 
 ```bash
 
 python scraperKobo.py filename iterations
+```
 
 where:
 * *filename*: list of starting list 
